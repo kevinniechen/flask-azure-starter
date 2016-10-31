@@ -1,4 +1,6 @@
-# Python-3 Flask for Azure Web Apps [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+# Flask Azure Starter
+
+ [![Deploy to Azure](http://i.imgur.com/FRHkJiY.png)](https://azuredeploy.net/)
 
 A minimal, one-click-deploy boilerplate designed for fast development at hackathons.
 
