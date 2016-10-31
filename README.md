@@ -1,6 +1,6 @@
 # Flask Azure Starter
 
- [![Deploy to Azure](http://i.imgur.com/FRHkJiY.png)](https://azuredeploy.net/)
+ [![Deploy to Azure](http://i.imgur.com/5UmJedU.png)](https://azuredeploy.net/)
 
 A minimal, one-click-deploy boilerplate designed for fast development at hackathons.
 
